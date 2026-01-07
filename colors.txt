@@ -1,0 +1,7 @@
+pricetra-green-heavy-dark-hover: #2e550e (darker leaf color)
+pricetra-green-heavy-dark: #396a12 (primary leaf color)
+pricetra-green-dark: #5fae23 (highlighted text)
+pricetra-green-logo: #9fe342 (on dark bg only)
+
+background-primary: #fffff
+text-primary: #000000
